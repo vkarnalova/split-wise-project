@@ -1,0 +1,10 @@
+Error with exchange rate client occurredwhile trying to convert fromBGN to UDSM
+[Ljava.lang.StackTraceElement;@1d8d30f7
+Error with exchange rate client occurredwhile trying to convert fromUSD to BGN
+[Ljava.lang.StackTraceElement;@51dbd6e4
+Error with exchange rate client occurredwhile trying to convert fromUSD to BGN
+[Ljava.lang.StackTraceElement;@cb0f763
+Error with exchange rate client occurredwhile trying to convert fromBGN to EUR
+[Ljava.lang.StackTraceElement;@57adfab0
+Error with exchange rate client occurredwhile trying to convert fromBGN to USDBN
+[Ljava.lang.StackTraceElement;@70242f38
