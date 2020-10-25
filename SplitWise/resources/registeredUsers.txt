@@ -1,3 +1,0 @@
-velina,123
-iva,123
-gosho,123
